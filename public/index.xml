@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>angelhpascual @ Blog </title>
+    <link>http://example.org/</link>
+    <description>Recent content on angelhpascual @ Blog </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>👋 Hi visitor! my name is Ángel and i am a junior developer and i&amp;rsquo;m learning everyday to improve my skills. I love music and i really like sing. I love longboard 💛
+This web site is made using Hugo
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:</description>
+    </item>
+    
+  </channel>
+</rss>
